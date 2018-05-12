@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33040'
     url: http://www.gutenberg.org/2009/agents/33040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27959#Ins-neue-Land
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-02-01'
 gutenberg_type: Text
